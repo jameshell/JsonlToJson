@@ -1,0 +1,12 @@
+{
+  "name": "jsonl2json",
+  "version": "1.0.0",
+  "description": "A package to create JSON files out of JSONL files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaime Alonso",
+  "license": "MIT"
+}

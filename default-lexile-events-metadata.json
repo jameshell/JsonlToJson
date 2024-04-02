@@ -1,0 +1,1408 @@
+[
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:d2e95843-284a-4099-a4d9-f2ee4060367f",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:7b63018a-35d3-45db-9b1e-a797f43d0d2d",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-0",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "BR400L",
+        "rawScore": 0,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:b121953d-c78b-4851-9105-3b31845f8283",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:20db2d32-4ac5-4832-a47c-9676e0e09529",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-1",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "BR400L",
+        "rawScore": 1,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:d1e518d4-ceb5-421b-bd78-a6d96a21955e",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:71423e54-fbf3-40e8-9cab-d8bee3790092",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-2",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "BR345L",
+        "rawScore": 2,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:df62e810-6329-4a55-b36d-a3153a7f4bfd",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:f1c328db-942a-4360-81b2-728e4a3011e8",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-3",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "BR260L",
+        "rawScore": 3,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:2328ced5-c875-40c1-83f2-27344e69ddbf",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:dfdfec30-1f24-49a6-8323-9d0f4f076e96",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-4",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "BR200L",
+        "rawScore": 4,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:765ce815-0396-4df1-8853-862fd4a1d6c4",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:2dbb054f-1fff-44e0-a715-9e629308d9ed",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-5",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "BR145L",
+        "rawScore": 5,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:c9f5ba95-24cc-4c24-823a-e42cb48a3c63",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:b5b04c15-8358-482f-a434-d947f367dc15",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-6",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "BR100L",
+        "rawScore": 6,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:c0837757-7962-4cf1-805f-4c5656d0d5d2",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:942b37de-9262-47fa-bdb0-41541099bdd1",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-7",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "BR60L",
+        "rawScore": 7,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:f7c76f9c-7473-4be8-875c-c30582d97597",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:6cd24f36-293f-4089-810e-cc69ccfa3f04",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-8",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "BR25L",
+        "rawScore": 8,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:63a11405-9771-4d44-ab1a-36a71d078a4e",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:ced5c051-644e-47b1-b098-579f4ddf4ec5",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-9",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "10L",
+        "rawScore": 9,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:79cb1fda-8045-414f-9095-ed4f66dcb3d4",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:6f48bdba-08a8-4e0d-85f8-be09759c92f0",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-10",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "45L",
+        "rawScore": 10,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:aa0730ac-f918-4a82-a87c-45f76b0b8086",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:8e166ce1-e0be-4be1-b430-cc1dde92d0f5",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-11",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "75L",
+        "rawScore": 11,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:6f1e393b-53b4-45bd-96ec-edfbbacaa319",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:4397b99d-ea26-4dd1-8fb1-9e83a3098ef9",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-12",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "105L",
+        "rawScore": 12,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:1bacaa73-8cd2-4e46-841a-87260da6504c",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:ea638661-bcfb-4527-b3fb-0adc85b8345f",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-13",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "135L",
+        "rawScore": 13,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:5ff968cd-9327-4364-b237-6acae834808b",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:35cf0cb7-a829-43e2-ad02-ce556c634dfc",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-14",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "165L",
+        "rawScore": 14,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:9ae4c140-ff52-41b3-838e-76e72dd05ee1",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:0f500386-4427-4efd-8fb9-4387159567e3",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-15",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "195L",
+        "rawScore": 15,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:36d80025-e345-4d3b-9cb3-cccc47c0336c",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:326339b1-a4cc-441a-83d2-69a52766b76b",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-16",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "225L",
+        "rawScore": 16,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:d7a9bb5f-e1df-4e82-863d-b59747d0afc1",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:d350a373-af54-416a-b0b8-d1ace7ac88b3",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-17",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "255L",
+        "rawScore": 17,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:6d68674d-2342-4612-8886-7879fd85115e",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:9fbebc5d-b212-4273-ad85-6c8e37c0f5eb",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-18",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "290L",
+        "rawScore": 18,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:98585794-062a-48b1-a171-7cc8b808bf5c",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:237db5ff-2617-451b-afaf-305d83834955",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-19",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "320L",
+        "rawScore": 19,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:ee312f25-6a22-4bf2-8eba-20a59f82fe7b",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:979da65b-c77f-4f0f-8508-7984523bd422",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-20",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "355L",
+        "rawScore": 20,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:e620405b-3403-4d54-9898-690440fa698c",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:05629a25-3dbe-490b-8fa2-379f60af2a71",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-21",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "390L",
+        "rawScore": 21,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:2a5766bd-9c39-496c-9052-b0c4ed92c7c1",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:b4963488-35aa-4069-b820-cf4f64b18a39",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-22",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "425L",
+        "rawScore": 22,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:211a39eb-0056-48fd-ad20-c7a7252442c2",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:3c9b0190-0db1-4645-9333-4d2a6c0c5a52",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-23",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "465L",
+        "rawScore": 23,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:f3fee301-d433-4c9d-bd96-056de26af681",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:add6161d-c6a1-42cf-a755-0be63e060c70",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-24",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "510L",
+        "rawScore": 24,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:97711756-58ec-40ab-b38a-7bd56d40abb9",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:4053cbe5-828f-4640-b17c-0f20f2d287ee",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-25",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "555L",
+        "rawScore": 25,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:330c83ef-8fac-492d-9d65-76e3b4fc01db",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:806a589c-dcf4-49e5-9f45-4dd418cf26e2",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-26",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "605L",
+        "rawScore": 26,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:7a66929c-f026-4608-8f6f-e868e505617b",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:81ba120d-e431-4beb-923a-1284521af1f6",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-27",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "665L",
+        "rawScore": 27,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:ba5472a7-25b8-421e-8831-a7effbc27ec9",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:20a4904a-3f27-4a6b-931d-e5a38ef034b7",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-28",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "730L",
+        "rawScore": 28,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:5ed31071-7fd4-48a3-a9c3-e2c02c7e08f2",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:11ed8d1d-241b-4232-9aa2-0dfb8161ba6a",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-29",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "810L",
+        "rawScore": 29,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:4a557276-325b-4b86-ad92-1d3370b3cf06",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:9ce5625b-9434-4b9c-8e02-25e89b5b0652",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-30",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "910L",
+        "rawScore": 30,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:1110d8de-555b-449a-99e0-b0b9a8442318",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:21581e02-09fd-413f-8bdd-d78f1db231d3",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-31",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "1065L",
+        "rawScore": 31,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:9d1d2eed-44d3-4458-baa2-53e390b51fc8",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.080Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:4b58d525-1c9b-4faa-addf-8a8abd0179d6",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:lexileTestScore/204-32",
+        "type": "LiteracyLexileTestScore",
+        "reportedLexileMeasure": "1200L",
+        "rawScore": 32,
+        "testSectionId": 204,
+        "testSectionName": "Lexile Grades 2-3 End-of-Year"
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:440c016b-d83f-41fb-991f-0b24cdc5d702",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.183Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:9f91626d-2e8b-498b-aea8-1698dda63c9d",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:testSectionAnswers/LexileGrades2-3End-of-Year",
+        "type": "LiteracyTestSectionAnswers",
+        "testSectionName": "Lexile Grades 2-3 End-of-Year",
+        "answers": [
+          {
+            "id": "urn:scoring:testQuestionAnswer/L36698",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "L36698",
+            "correctOptionName": "opt4389"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q547",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q547",
+            "correctOptionName": "opt2269"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q548",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q548",
+            "correctOptionName": "opt2273"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q549",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q549",
+            "correctOptionName": "opt2277"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q550",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q550",
+            "correctOptionName": "opt2281"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q551",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q551",
+            "correctOptionName": "opt2285"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q552",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q552",
+            "correctOptionName": "opt2289"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q553",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q553",
+            "correctOptionName": "opt2293"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q554",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q554",
+            "correctOptionName": "opt2297"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q555",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q555",
+            "correctOptionName": "opt2301"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q556",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q556",
+            "correctOptionName": "opt2305"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q557",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q557",
+            "correctOptionName": "opt2309"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q558",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q558",
+            "correctOptionName": "opt2313"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/L36919",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "L36919",
+            "correctOptionName": "opt4437"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q560",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q560",
+            "correctOptionName": "opt2321"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q561",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q561",
+            "correctOptionName": "opt2325"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q562",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q562",
+            "correctOptionName": "opt2329"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q563",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q563",
+            "correctOptionName": "opt2333"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q564",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q564",
+            "correctOptionName": "opt2337"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q565",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q565",
+            "correctOptionName": "opt2341"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q566",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q566",
+            "correctOptionName": "opt2345"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/L12432",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "L12432",
+            "correctOptionName": "opt4404"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q568",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q568",
+            "correctOptionName": "opt2353"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q569",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q569",
+            "correctOptionName": "opt2357"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q570",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q570",
+            "correctOptionName": "opt2361"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q571",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q571",
+            "correctOptionName": "opt2365"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q572",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q572",
+            "correctOptionName": "opt2369"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q573",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q573",
+            "correctOptionName": "opt2373"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/L12490",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "L12490",
+            "correctOptionName": "opt4412"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q575",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q575",
+            "correctOptionName": "opt2381"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/q576",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "q576",
+            "correctOptionName": "opt2385"
+          },
+          {
+            "id": "urn:scoring:testQuestionAnswer/L36701",
+            "type": "LiteracyTestQuestionAnswer",
+            "testQuestionName": "L36701",
+            "correctOptionName": "opt4429"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:bbc2c228-8cbc-4117-9055-540d7c6a5b01",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.200Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:f6edbce9-724b-4054-84af-f0b7a2a88593",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:categoryScoreRanges/Literacy",
+        "type": "LiteracyCategoryScoreRanges",
+        "category": "Literacy",
+        "ranges": [
+          {
+            "id": "urn:scoring:scoreRanges/-1",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "-1",
+            "lowerLimit": 50,
+            "upperLimit": 175
+          },
+          {
+            "id": "urn:scoring:scoreRanges/0",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "0",
+            "lowerLimit": 176,
+            "upperLimit": 550
+          },
+          {
+            "id": "urn:scoring:scoreRanges/1",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "1",
+            "lowerLimit": 551,
+            "upperLimit": 925
+          },
+          {
+            "id": "urn:scoring:scoreRanges/2",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "2",
+            "lowerLimit": 926,
+            "upperLimit": 1400
+          },
+          {
+            "id": "urn:scoring:scoreRanges/3",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "3",
+            "lowerLimit": 1401,
+            "upperLimit": 1915
+          },
+          {
+            "id": "urn:scoring:scoreRanges/4",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "4",
+            "lowerLimit": 1916,
+            "upperLimit": 2150
+          },
+          {
+            "id": "urn:scoring:scoreRanges/5",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "5",
+            "lowerLimit": 2151,
+            "upperLimit": 2317
+          }
+        ]
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:5df2d89e-6eae-465e-afb4-26c1bc0d5b5b",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.200Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:8b5a4324-bc8a-4d04-9ddc-cea04bc978d9",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:categoryScoreRanges/Language",
+        "type": "LiteracyCategoryScoreRanges",
+        "category": "Language",
+        "ranges": [
+          {
+            "id": "urn:scoring:scoreRanges/Basic",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "Basic",
+            "lowerLimit": 68,
+            "upperLimit": 375
+          },
+          {
+            "id": "urn:scoring:scoreRanges/Beginner",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "Beginner",
+            "lowerLimit": 376,
+            "upperLimit": 775
+          },
+          {
+            "id": "urn:scoring:scoreRanges/Intermediate",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "Intermediate",
+            "lowerLimit": 776,
+            "upperLimit": 1250
+          },
+          {
+            "id": "urn:scoring:scoreRanges/Advanced",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "Advanced",
+            "lowerLimit": 1251,
+            "upperLimit": 1375
+          }
+        ]
+      }
+    }
+  },
+  {
+    "event": {
+      "@context": [
+        "http://edgenuity.com/events/resource-created/0-0-1",
+        "http://purl.imsglobal.org/ctx/caliper/v1p2"
+      ],
+      "id": "urn:uuid:0bb7df68-5785-4ecf-a8a5-c3e64c56fc28",
+      "type": "ResourceManagementEvent",
+      "action": "Created",
+      "eventTime": "2024-04-02T17:00:05.200Z",
+      "edApp": {
+        "id": "https://app.edgenuity.com",
+        "type": "SoftwareApplication"
+      },
+      "actor": {
+        "id": "urn:uuid:f6f1731e-c298-4859-afb4-7245167774dc",
+        "type": "SoftwareApplication"
+      },
+      "object": {
+        "id": "urn:scoring:categoryScoreRanges/Lexile",
+        "type": "LiteracyCategoryScoreRanges",
+        "category": "Lexile",
+        "ranges": [
+          {
+            "id": "urn:scoring:scoreRanges/-1",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "-1",
+            "lowerLimit": -1,
+            "upperLimit": -1
+          },
+          {
+            "id": "urn:scoring:scoreRanges/0",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "0",
+            "lowerLimit": -1,
+            "upperLimit": -1
+          },
+          {
+            "id": "urn:scoring:scoreRanges/1",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "1",
+            "lowerLimit": -1,
+            "upperLimit": -1
+          },
+          {
+            "id": "urn:scoring:scoreRanges/2",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "2",
+            "lowerLimit": 420,
+            "upperLimit": 650
+          },
+          {
+            "id": "urn:scoring:scoreRanges/3",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "3",
+            "lowerLimit": 520,
+            "upperLimit": 820
+          },
+          {
+            "id": "urn:scoring:scoreRanges/4",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "4",
+            "lowerLimit": 740,
+            "upperLimit": 940
+          },
+          {
+            "id": "urn:scoring:scoreRanges/5",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "5",
+            "lowerLimit": 830,
+            "upperLimit": 1010
+          },
+          {
+            "id": "urn:scoring:scoreRanges/6",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "6",
+            "lowerLimit": 925,
+            "upperLimit": 1070
+          },
+          {
+            "id": "urn:scoring:scoreRanges/7",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "7",
+            "lowerLimit": 970,
+            "upperLimit": 1120
+          },
+          {
+            "id": "urn:scoring:scoreRanges/8",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "8",
+            "lowerLimit": 1010,
+            "upperLimit": 1185
+          },
+          {
+            "id": "urn:scoring:scoreRanges/9",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "9",
+            "lowerLimit": 1050,
+            "upperLimit": 1260
+          },
+          {
+            "id": "urn:scoring:scoreRanges/10",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "10",
+            "lowerLimit": 1080,
+            "upperLimit": 1335
+          },
+          {
+            "id": "urn:scoring:scoreRanges/11",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "11",
+            "lowerLimit": 1185,
+            "upperLimit": 1385
+          },
+          {
+            "id": "urn:scoring:scoreRanges/12",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "12",
+            "lowerLimit": 1185,
+            "upperLimit": 1385
+          },
+          {
+            "id": "urn:scoring:scoreRanges/13",
+            "type": "LiteracyScoreRange",
+            "gradeOrLevel": "13",
+            "lowerLimit": 1185,
+            "upperLimit": 1385
+          }
+        ]
+      }
+    }
+  }
+]
